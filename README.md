@@ -42,10 +42,3 @@ kdvc-fingerprint/
 | [02_Raspberry_Pi_OS_Installation](docs/02_Raspberry_Pi_OS_Installation.md) | Flash OS, SSH, Wi-Fi |
 | [03_Raspberry_Pi_Configuration](docs/03_Raspberry_Pi_Configuration.md) | Enable SPI, UART, I²C |
 | [04_GPIO_Pin_Mapping](docs/04_GPIO_Pin_Mapping.md) | Wiring plan and pin allocation |
-
-## Team
-
-| Role | Name |
-|------|------|
-| Developer | Kelvin Muchemi |
-| Client | Nice Waardenburg |
